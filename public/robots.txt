@@ -1,0 +1,59 @@
+# robots.txt for carry.exchange
+# https://carry.exchange
+
+# Allow all well-behaved crawlers
+User-agent: *
+Allow: /
+
+# Block private/user-specific areas
+Disallow: /dashboard
+Disallow: /account
+Disallow: /portfolio
+Disallow: /settings
+Disallow: /notifications
+Disallow: /orders
+Disallow: /positions
+Disallow: /history
+Disallow: /wallet
+Disallow: /kyc
+Disallow: /referral
+
+# Block internal/API paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /internal/
+Disallow: /static/private/
+
+# Block auth flows
+Disallow: /logout
+Disallow: /reset-password
+Disallow: /verify-email
+Disallow: /2fa
+
+# Block search/filter query spam
+Disallow: /trade?*
+Disallow: /markets?sort=*
+Disallow: /markets?filter=*
+
+# Allow important public paths explicitly
+Allow: /trade$
+Allow: /markets$
+Allow: /markets/energy
+Allow: /markets/metals
+Allow: /markets/chemicals
+Allow: /markets/regional
+Allow: /predictions
+Allow: /analytics
+Allow: /blog
+Allow: /learn
+Allow: /docs
+Allow: /about
+Allow: /institutional
+Allow: /liquidity
+
+# Crawl-delay for courtesy (optional, respected by some bots)
+Crawl-delay: 2
+
+# Sitemaps
+Sitemap: https://carry.exchange/sitemap.xml

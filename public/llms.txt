@@ -1,0 +1,30 @@
+# Carry Exchange
+> Carry is an AI powered, high-performance commodity exchange for trading commodity perpetual futures, tokenized commodities, prediction markets as well as options on commodities.
+
+## Core Products
+- [Perpetual Futures](https://carry.exchange): Speculate on commodity price movements with leverage and no expiration date.
+- [Tokenized Spot Commodities](https://carry.exchange): Fractional ownership of physical commodities (Gold, Silver, Oil, Agri commodities, etc.) backed 1:1 by real-world assets (RWAs).
+- [Prediction Markets](https://carry.exchange): Participate in event-based trading and commodity price forecasting.
+- [Call & Put Options](https://carry.exchange): Buy and sell options on commodities to manage risk and speculate on price movements.
+
+## Key Technical Features
+- **AI-Native Infrastructure**: AI powered market making, Intelligent Order Routing, Predictive Matching, and AI-driven risk management tools. 
+- **Institutional Security**: Bank-grade encryption, cold storage custody for tokenized assets, and built-in regulatory compliance.
+- **Global Market Access**: 24/7 trading across 50+ global commodity markets with sub-milli-second execution.
+- **Liquidity & Execution**: Smart order routing and high-throughput engine designed for institutional and retail traders.
+
+## Supported Asset Classes
+- **Precious Metals**: Gold (XAU), Silver (XAG), Platinum (XPT), Palladium (XPD).
+- **Base Metals**: Gold (XAU), Silver (XAG), Platinum (XPT), Palladium (XPD).
+- **Rare Earth Metals**: Gold (XAU), Silver (XAG), Platinum (XPT), Palladium (XPD).
+- **Energy**: Crude Oil, Natural Gas, Electricity, 
+
+## Status and Roadmap
+- **Current Phase**: Pre-launch / Global Waitlist (11,000+ traders).
+- **Official Launch**: Scheduled for Q2 2026.
+- **Access**: Users can join the waitlist at [carry.exchange](https://carry.exchange) for early access and VIP benefits.
+
+## Compliance and Safety
+- [Terms of Service](https://carry.exchange/terms)
+- [Privacy Policy](https://carry.exchange/privacy)
+- [Contact Support](https://carry.exchange/contact)
